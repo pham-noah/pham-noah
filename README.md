@@ -12,6 +12,10 @@ Hopefully we can get along in the future.
   - Linkedin: [Click here](https://www.linkedin.com/in/ngoc-pham-644276325/)
 
 > Nothing is impossible
+
+![LAB University of Applied Sciences](https://github.com/user-attachments/assets/d3e7d642-3889-4c73-8749-165b2e8a1a77)
+
+
 <!---
 pham-noah/pham-noah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
