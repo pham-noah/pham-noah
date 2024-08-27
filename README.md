@@ -5,9 +5,11 @@ Hopefully we can get along in the future.
 
 - 👀 I’m interested in making video games and *techy stuffs*
 - 🐍 I am learning Python and C++
-- 🌱 I also want to be a software developer
-- 🔥 I'm really determined to achieve my goal
+- 🔥 I'm really determined to achieve my goal: software developer
 - 🌊 I love observing nature
+- 🌱 Link:
+  - Email: ngocpham150304@gmail.com
+  - Linkedin: [Click here](https://www.linkedin.com/in/ngoc-pham-644276325/)
 
 > Nothing is impossible
 <!---
