@@ -13,7 +13,7 @@ Hopefully we can get along in the future.
 
 > Nothing is impossible
 
-![LAB University of Applied Sciences](https://github.com/user-attachments/assets/d3e7d642-3889-4c73-8749-165b2e8a1a77)
+![LAB University of Applied Sciences](https://github.com/user-attachments/assets/6568e4f8-394e-4e6d-9bd1-f4912622cf09)
 
 
 <!---
