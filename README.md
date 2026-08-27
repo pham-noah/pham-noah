@@ -5,8 +5,6 @@ I’m Pham Van Ngoc but you can call me **Pham Noah**.
 - I’m interested in making video games and *techy stuffs*
 - I am learning Python and C++
 - I'm really determined to achieve my goal: video game developer.
-- Link:
-  - Email: ngocpham150304@gmail.com
 
 > Nothing is impossible
 
